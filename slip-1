@@ -13,6 +13,8 @@ public class ArrayProgram {
         int[] a = new int[n];
         int sum = 0;
 
+
+
         // Input array elements
         System.out.println("Enter " + n + " elements:");
 
